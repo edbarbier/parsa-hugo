@@ -27,7 +27,7 @@ google_analitycs_id = "UA-126623668-1"
 home = "Home"
 layout = "1"
 logo = "images/fd-logo-small.png"
-mobile = "+90 000 333 22"
+mobile = ""
 preloader = true
 search = true
 [params.instafeed]
@@ -62,14 +62,5 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "#"
-icon = "ti-linkedin"
-[[params.social]]
-URL = "#"
-icon = "ti-github"
+URL = "www.instagram.com/flavorsdiscovered"
+icon = "ti-instagram"
