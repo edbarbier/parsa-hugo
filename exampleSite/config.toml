@@ -5,17 +5,9 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Flavors Discovered"
 [[menu.main]]
-URL = "travel"
-name = "Travel"
-weight = "2"
-[[menu.main]]
-URL = "about"
-name = "About"
+URL = "contact"
+name = "Contact"
 weight = 2
-[[menu.main]]
-URL = "recipes"
-name = "Recipes"
-weight = "2"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
