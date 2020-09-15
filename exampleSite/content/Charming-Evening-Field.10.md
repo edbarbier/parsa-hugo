@@ -16,7 +16,7 @@ tags:
 ---
 Not just another Belgian waffle recipe. This one comes from my Belgian friend's family, like one of those grandma's recipe. I LOVE IT!
 
-# **Ingredients**
+### **Ingredients**
 
 \- 500g all purpose flour
 
@@ -40,7 +40,7 @@ Nutella to spread
 
 Strawberries and/or marshmallows to make it taste good and look pretty ;)
 
-# **Method**
+### **Method**
 
 1\. Mix yeast in like warm milk - Mix egg, salt, sugar and flour. (Medium speed or food processor. Use spoon to mix if you don’t have a good processor)
 
