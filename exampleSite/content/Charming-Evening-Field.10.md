@@ -1,5 +1,5 @@
 ---
-title: Belgian Waffles
+title: 'Belgian Waffles: all you need on a winter day!'
 date: 2018-12-02T09:46:10+00:00
 description: 'Belgian Waffles Recipe: The day when I feel like starting with heavenly
   Belgian waffles for breakfast!on'
