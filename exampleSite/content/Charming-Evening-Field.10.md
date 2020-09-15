@@ -59,3 +59,5 @@ Strawberries and/or marshmallows to make it taste good and look pretty ;)
 8\. Depending on the iron in 5 min, Et Voilà the true Belgian waffles are there to satiate that sweet tooth!
 
 Put marshmallow, Nutella or simply sugar on the top and eat while it's still warm!
+
+Enjoy!
