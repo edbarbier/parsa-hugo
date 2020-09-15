@@ -4,9 +4,8 @@ date: 2018-12-02T09:46:10+00:00
 description: 'Belgian Waffles Recipe: The day when I feel like starting with heavenly
   Belgian waffles for breakfast!on'
 type: featured
-image: "/images/5-belgian-waffles.JPG"
+image: "/images/featured-post/post-3.jpg"
 categories:
-- Recipes
 - Food
 tags:
 - Photos
