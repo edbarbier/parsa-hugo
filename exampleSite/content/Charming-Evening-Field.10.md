@@ -1,55 +1,61 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "post"
-image: "images/masonary-post/post-11.jpg"
-categories: 
-  - "Food"
+title: Belgian Waffles
+date: 2018-12-02T09:46:10+00:00
+description: 'Belgian Waffles Recipe: The day when I feel like starting with heavenly
+  Belgian waffles for breakfast!on'
+type: featured
+image: "/images/5-belgian-waffles.JPG"
+categories:
+- Recipes
+- Food
 tags:
-  - "Photos"
-  - "Food"
+- Photos
+- Food
+- Recipes
+
 ---
+Not just another Belgian waffle recipe. This one comes from my Belgian friend's family, like one of those grandma's recipe. I LOVE IT!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+# **Ingredients**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+\- 500g all purpose flour
 
+\- 25g yeast
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+\- 200ml milk
 
+\- 300g melted butter
 
-![](../images/post-img.jpg)
+\- 60g brown sugar
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+\- 2 eggs
 
+\- Sugar pearls (Important to get the right one for the waffles: [here](https://www.amazon.fr/Daddy-perles-sucre-500g-Livraison/dp/B01LLM36QA/ref=sr_1_1?s=grocery&ie=UTF8&qid=1543764039&sr=8-1&keywords=daddy+perle+de+sucre))
 
+\- A pinch of salt
+
+Sugar to Sprinkle
+
+Nutella to spread
+
+Strawberries and/or marshmallows to make it taste good and look pretty ;)
+
+# **Method**
+
+1\. Mix yeast in like warm milk - Mix egg, salt, sugar and flour. (Medium speed or food processor. Use spoon to mix if you don’t have a good processor)
+
+2\. Add milk and yeast mix to the above mixture and blend well
+
+3\. Gradually add melted butter and keep mixing until the whole butter is absorbed
+
+4\. Run the food processor for a min to ensure everything is well blended to form a dough (If the dough is too runny or sticking to the sides add a bit of flour)
+
+5\. Leave the dough to rise for 45 mins. It should rise to double in size
+
+6\. Sprinkle sugar pearls on a plate. Take a scoop full of serving spoon of the dough and roll it in the pearls
+
+7\. Put the dough on the iron
+
+8\. Depending on the iron in 5 min, Et Voilà the true Belgian waffles are there to satiate that sweet tooth!
+
+Put marshmallow, Nutella or simply sugar on the top and eat while it's still warm!
