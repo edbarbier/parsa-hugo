@@ -4,15 +4,14 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Flavors Discovered"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
+[menu.main]
+name = "Recipes"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
+address = ""
+author = "Nikita"
 author_image = "images/banner-img.png"
 bio = "Digital Marketer by day, foodie 24/7"
 contact_form_action = ""
