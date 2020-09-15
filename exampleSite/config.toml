@@ -4,9 +4,10 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Flavors Discovered"
-[menu.main]
-name = "Recipes"
-weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
