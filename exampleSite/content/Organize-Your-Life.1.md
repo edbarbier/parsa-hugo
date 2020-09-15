@@ -10,6 +10,7 @@ tags:
 - food
 - " recipe"
 - indian
+- recipes
 
 ---
 # **TETETETTETETETE**
