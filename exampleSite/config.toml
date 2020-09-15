@@ -5,6 +5,10 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Flavors Discovered"
 [[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
 URL = "travel"
 name = "Travel"
 weight = "2"
@@ -12,10 +16,6 @@ weight = "2"
 URL = "recipes"
 name = "Recipes"
 weight = "2"
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
