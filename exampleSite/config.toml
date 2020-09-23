@@ -21,7 +21,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
 author = "Nikita"
-author_image = "images/img_2514.JPG"
+author_image = "/images/img_2514.JPG"
 bio = "Digital Marketer by day, foodie 24/7"
 contact_form_action = ""
 copyright = "Copyright &copy; 2020 - Nikita K."
