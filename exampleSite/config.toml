@@ -5,15 +5,23 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Flavors Discovered"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "travel"
+name = "Travel"
+weight = "2"
+[[menu.main]]
+URL = "about"
+name = "About"
 weight = 2
+[[menu.main]]
+URL = "recipes"
+name = "Recipes"
+weight = "2"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
 author = "Nikita"
-author_image = "images/banner-img.png"
+author_image = "images/img_2514.JPG"
 bio = "Digital Marketer by day, foodie 24/7"
 contact_form_action = ""
 copyright = "Copyright &copy; 2020 - Nikita K."
