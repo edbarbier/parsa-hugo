@@ -5,7 +5,7 @@ description: This is meta description
 type: post
 image: "/images/beef-omelette.jpg"
 categories:
-- Food
+- Recipes
 tags:
 - Photos
 - Food
