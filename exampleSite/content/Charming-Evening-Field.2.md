@@ -1,7 +1,7 @@
 ---
 title: 'Thai beef omelette '
 date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+description: 'Omelette lovers '
 type: post
 image: "/images/beef-omelette.jpg"
 categories:
@@ -15,8 +15,6 @@ tags:
 - " Thai"
 
 ---
-# Thai Beef Omelette
-
 **Ingredients**
 
 \- 8 Eggs
