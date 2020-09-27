@@ -1,5 +1,5 @@
 ---
-title: 'Yellow lentil '
+title: 'Yellow lentil - Tuar Daal '
 date: 2019-07-25T08:46:10+00:00
 description: 'In India we have a variety of lentils and they are very delicious by
   themselves. With a little spice and butter / oil the flavor multiplies. My favorite
@@ -18,9 +18,7 @@ tags:
 - " india"
 
 ---
-# Daal (Tuar Lentil) 
-
-In India we have a variety of lentils and they are very delicious by themselves. With a little spice and butter / oil the flavor multiplies. My favorite lentils are tuar (yellow in color), Moong (green in color). 
+In India we have a variety of lentils and they are very delicious by themselves. With a little spice and butter / oil the flavor multiplies. My favorite lentils are tuar (yellow in color), Moong (green in color).
 
 \- 225 gr Yellow lentil (Tuar aka Arhar daal)
 
@@ -42,8 +40,8 @@ In India we have a variety of lentils and they are very delicious by themselves.
 
 \- To spice up Green chili (Optional)
 
-\- To taste Salt  
-  
+\- To taste Salt
+
 **Method**
 
 1\. Wash the lentils
