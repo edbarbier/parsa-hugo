@@ -5,7 +5,7 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Flavors Discovered"
 [[menu.main]]
-URL = "travel"
+URL = "categories/article/"
 name = "Travel"
 weight = "2"
 [[menu.main]]
