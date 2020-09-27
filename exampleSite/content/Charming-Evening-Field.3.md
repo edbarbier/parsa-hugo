@@ -1,7 +1,7 @@
 ---
 title: Spinach and Potato Kebab
 date: 2019-10-17T08:46:10+00:00
-description: This is meta description
+description: Easy and healthy vegetarian indian starters
 type: post
 image: "/images/hara-bhara-kebab.jpg"
 categories:
@@ -19,9 +19,7 @@ tags:
 - " simple recipe "
 
 ---
-# Spinach and Potato Kebab
-
-In restaurants in the North of India and in the centre as well you might find this starter which is called Hara bhara kebab which means green kebab. Of course thanks to the blend of spinach and green peas in it. 
+In restaurants in the North of India and in the centre as well you might find this starter which is called Hara bhara kebab which means green kebab. Of course thanks to the blend of spinach and green peas in it.
 
 **Ingredients**
 
@@ -43,8 +41,8 @@ In restaurants in the North of India and in the centre as well you might find th
 
 \- To cook Oil
 
-\- To taste Salt  
-  
+\- To taste Salt
+
 **Method**
 
 1\. In a large bowl, mix all the ingredients.
@@ -59,6 +57,6 @@ In restaurants in the North of India and in the centre as well you might find th
 
 6\. Enjoy with coriander chutney or your favorite dip.
 
-Tips 
+Tips
 
-If the mix is too soft you can add more potato or binding agents like cornflour, bread crumbs. 
+If the mix is too soft you can add more potato or binding agents like cornflour, bread crumbs.
