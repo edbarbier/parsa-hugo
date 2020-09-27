@@ -6,7 +6,7 @@ description: 'Belgian Waffles Recipe: The day when I feel like starting with hea
 type: post
 image: "/images/5-belgian-waffles-1.JPG"
 categories:
-- Food
+- Recipes
 tags:
 - Photos
 - Food
