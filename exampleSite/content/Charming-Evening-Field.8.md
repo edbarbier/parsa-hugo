@@ -1,7 +1,10 @@
 ---
 title: 'Stuffed tomato in tomato and onion gravy '
 date: 2019-05-14T14:46:10.000+06:00
-description: 'Stuffed tomato '
+description: " just want to say that curry is not really a thing in India. Any dish
+  with gravy to it we call it jhol as in any dish with gravy or not dry (sukhi is
+  dry in hindi) ;) So it's not that Indians have a curry masala, gravies are made
+  of different spices like any other dish would be."
 type: post
 image: "/images/stuff-tomato.jpg"
 categories:
@@ -15,11 +18,8 @@ tags:
 - " indian"
 
 ---
-# Stuffed tomato with gravy
+This is my first Indian recipe in the process of migration to this new website. I just want to say that curry is not really a thing in India. Any dish with gravy to it we call it jhol as in any dish with gravy or not dry (sukhi is dry in hindi) ;) So it's not that Indians have a curry masala, gravies are made of different spices like any other dish would be.
 
-This is my first Indian recipe in the process of migration to this new website. I just want to say that curry is not really a thing in India. Any dish with gravy to it we call it jhol as in any dish with gravy or not dry (sukhi is dry in hindi) ;) So it's not that Indians have a curry masala, gravies are made of different spices like any other dish would be. 
-
-  
 **Ingredients**
 
 \- 2.5 Medium size tomato
@@ -50,7 +50,6 @@ This is my first Indian recipe in the process of migration to this new website. 
 
 \- 0.5 Tomato (for the gravy)
 
-  
 **Method**
 
 1\. Cut the top of the two tomatoes to be able to scoop out the pulp and close after stuffing.
