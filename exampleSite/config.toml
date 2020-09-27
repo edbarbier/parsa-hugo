@@ -9,7 +9,7 @@ URL = "categories/article/"
 name = "Travel"
 weight = "2"
 [[menu.main]]
-URL = "categories/article/"
+URL = "categories/recipes/"
 name = "Recipes"
 weight = "2"
 [outputs]
