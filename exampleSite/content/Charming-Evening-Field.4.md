@@ -18,6 +18,8 @@ tags:
 ---
 # Paratha (Indian Bread) 
 
+The most common Indian bread is chapati / roti. Parathas are a bit fancier than chapati and less fancy than naan ;) 
+
 **Ingredients**
 
 \- 250 gr Wheat flour
