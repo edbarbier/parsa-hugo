@@ -46,7 +46,7 @@ In India we have a variety of lentils and they are very delicious by themselves.
 
 1\. Wash the lentils
 
-2\. Add the lentils, water, turmeric powder and salt in a pressure cook. Cook for two whistles and let it sit until the whole pressure is released.
+2\. Add the lentils, water, turmeric powder and salt in a pressure cook. Cook on medium flame for two whistles and let it sit until the whole pressure is released.
 
 3\. In a pan, head the ghee (or butter)
 
