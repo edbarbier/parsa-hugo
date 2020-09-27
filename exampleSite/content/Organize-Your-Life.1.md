@@ -1,9 +1,10 @@
 ---
 title: 'Utterly Butterly Prawns '
 date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+description: This prawn recipe is a perfect blend of butter and sugar. Like any other
+  prawn recipe on my blog it's very simple and delicious.
 type: post
-image: "/images/prawn.JPG"
+image: "/images/img_6170.jpg"
 categories:
 - Recipes
 tags:
@@ -14,11 +15,9 @@ tags:
 - prawns
 
 ---
-# Utterly Butterly Prawns
+This prawn recipe is a perfect blend of butter and sugar. Like any other prawn recipe on my blog it's very simple and delicious.
 
-This prawn recipe is a perfect blend of butter and sugar. Like any other prawn recipe on my blog it's very simple and delicious. 
-
-**Ingredients** 
+**Ingredients**
 
 \- 600 gr Fresh prawns
 
@@ -46,7 +45,6 @@ This prawn recipe is a perfect blend of butter and sugar. Like any other prawn r
 
 \- To taste Red chilly powder
 
-  
 **Method**
 
 1\. Heat oil in a pan. Once the oil is hot, fry prawns for 3 mins.
