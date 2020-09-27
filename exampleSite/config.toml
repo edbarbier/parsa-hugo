@@ -1,4 +1,4 @@
-baseURL = "https://www.flavorsdiscovered.com"
+baseURL = "https://www.flavorsdiscovered.com/"
 languageCode = "en-us"
 paginate = "9"
 summaryLength = "5"
@@ -32,7 +32,7 @@ preloader = true
 search = true
 [params.instafeed]
 access_token = "EAATNWLjQkwkBABBEuuopdAvtiTjdXWGTNU8aj0O4ax0MTzyTezd8oJJZCTcZAZAl2ieJxnBC6W2KMyWqRZBtsfqm6cSHPH4sWmGc4CCzILVHZAMBOe4GIhQ0MrhnUZCGlyPYkF1JcefuHc0dPjolic3f5OHQezhzIVzbx3rT7dYnZBmCGPocIB6BTXExLguNMPqHu3ocTceaPH1ADxCO2RF"
-enable = true
+enable = false
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
