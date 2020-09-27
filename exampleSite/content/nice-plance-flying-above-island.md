@@ -8,8 +8,6 @@ title = "Long weekend in Interlaken region "
 type = "post"
 
 +++
-# A long weekend in Interlaken
-
 **A long weekend in the Interlaken region**
 
 For the first time in 2020, I managed to take a few days off and travel to a place we haven't visited until last weekend. It was our planned wedding weekend until we had to move it to next year due to COVID chaos. Well it was still one of the best weekend we spent with our best friends and my fiancé's sister.
