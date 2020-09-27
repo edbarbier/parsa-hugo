@@ -6,7 +6,7 @@ description: 'Vegetable pulav, home made version of biryani quite commonly cooke
 type: post
 image: "/images/mumma-s-oulav.jpg"
 categories:
-- Food
+- Recipes
 tags:
 - Photos
 - Food
