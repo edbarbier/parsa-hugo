@@ -5,7 +5,7 @@ description: 'Non spicy pepper stuffed with gram flour '
 type: post
 image: "/images/besan-ki-mirchi.jpg"
 categories:
-- Food
+- Recipes
 tags:
 - Photos
 - Food
