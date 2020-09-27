@@ -1,5 +1,5 @@
 ---
-title: 'Besan ki Mirchi '
+title: 'Stuffed Peppers - Besan ki Mirchi '
 date: 2019-05-14T14:46:10.000+06:00
 description: 'Non spicy pepper stuffed with gram flour '
 type: post
@@ -17,8 +17,6 @@ tags:
 - Padron
 
 ---
-# Stuffed Peppers 
-
 **Ingredients**
 
 \- 250 gr Green pepper (sliced horizontally)
