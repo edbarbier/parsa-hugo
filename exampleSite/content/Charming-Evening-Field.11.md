@@ -1,55 +1,75 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "post"
-image: "images/masonary-post/post-12.jpg"
-categories: 
-  - "Food"
+title: Vegetable Pulav
+date: 2019-05-14T14:46:10.000+06:00
+description: 'Vegetable pulav, home made version of biryani quite commonly cooked
+  in Indian families. '
+type: post
+image: "/images/mumma-s-oulav.jpg"
+categories:
+- Food
 tags:
-  - "Photos"
-  - "Food"
+- Photos
+- Food
+- recipes
+- " pulav"
+- " vegetarian"
+- " rice"
+
 ---
+# Vegetable Pulav 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+This is my favorite recipe from my very generous Mom. Vegetable pulav, home made version of biryani quite commonly cooked in Indian families.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**Ingredients**
 
+\- 200 gr Basmati rice
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+\- 150 gr Cauliflower florets
 
+\- 1 Medium size tomato
 
-![](../images/post-img.jpg)
+\- 70 gr Green peas (frozen or fresh)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+\- 1 Medium size red onion
 
+\- 1 Small black cardamom (deseeded)
 
+\- 5 Peppercorns (full)
+
+\- 3 Cloves
+
+\- 1tsp Cumin seeds
+
+\- 3tbsp Butter (for cooking)
+
+\- 2tbsp Coriander
+
+\- 1 Green chili (Optional)
+
+\- 1For frying Oil
+
+**Method**
+
+1\. Soak the rice in water (make sure all the rice is covered)
+
+2\. Finely chop the onion (long strips)
+
+3\. Heat the oil in a pan and brown the chopped onion
+
+4\. Remove the onion from the pan and fry the cardamom, peppercorns and cloves (quick browning)
+
+5\. In a blender, blend together the fried onion, the spices you just browned and the tomato (diced).
+
+6\. In a pressure cooker, heat the butter (ideally ghee, but normal butter will do just fine too), add cumin seeds and the onion/tomato blended paste.
+
+7\. Add diced potato, cauliflower, peas, green chili (finely chopped) and salt.
+
+8\. Cook for 2 minutes
+
+9\. Add water in the pressure cooker (the equivalent of 1.5x times the volume of your ingredients) and bring to boil.
+
+10\. Drain the water from the rice and add the rice in the cooker.
+
+11\. Close the cooker and cook for 1 whistle. Wait for the full pressure to release.
+
+12\. Once cooked, garnish with chopped coriander and serve with Raita dip.
