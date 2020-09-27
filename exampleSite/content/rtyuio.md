@@ -8,9 +8,7 @@ title = "Cookie dough cake"
 type = "post"
 
 +++
-**Cookie dough cake**
-
-I tried this cake on my birthday aka Star Wars day in 2020. :P It was a lot for only two people. This cake will serve min. 8 people unless you and your loved ones can eat two big cookies in one go. :) 
+I tried this cake on my birthday aka Star Wars day in 2020. :P It was a lot for only two people. This cake will serve min. 8 people unless you and your loved ones can eat two big cookies in one go. :)
 
 **Ingredients**
 
