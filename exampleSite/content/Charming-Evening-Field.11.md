@@ -16,8 +16,6 @@ tags:
 - " rice"
 
 ---
-# Vegetable Pulav 
-
 This is my favorite recipe from my very generous Mom. Vegetable pulav, home made version of biryani quite commonly cooked in Indian families.
 
 **Ingredients**
