@@ -1,5 +1,5 @@
 ---
-title: Indian bread
+title: Paratha - Indian bread
 date: 2019-06-14T08:46:10+00:00
 description: 'Typical Indian bread on the side '
 type: post
