@@ -1,7 +1,7 @@
 baseURL = "https://www.flavorsdiscovered.com"
 languageCode = "en-us"
-paginate = 6
-summaryLength = "10"
+paginate = "10"
+summaryLength = "5"
 theme = "parsa-hugo"
 title = "Flavors Discovered"
 [[menu.main]]
