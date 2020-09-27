@@ -1,7 +1,7 @@
 ---
 title: Chapati
 date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+description: Indian bread
 type: post
 image: "/images/chapati.jpg"
 categories: []
@@ -16,11 +16,8 @@ tags:
 - " indian bread"
 
 ---
-# Chapati
+I didn't realise the craving for staple diet, in my case, roti (chapati) until I couldn't due to some weeks of sickness when I was a kid. Now after living in Europe for the last 7 years I can live on different things and not eat chapati for weeks.
 
-I didn't realise the craving for staple diet, in my case, roti (chapati) until I couldn't due to some weeks of sickness when I was a kid. Now after living in Europe for the last 7 years I can live on different things and not eat chapati for weeks. 
-
-  
 **Ingredients**
 
 \- 250 gr Wheat flour
@@ -29,7 +26,6 @@ I didn't realise the craving for staple diet, in my case, roti (chapati) until I
 
 \- 1t sp Salt
 
-  
 **Method**
 
 1\. In a kitchen robot, add the flour and the salt
@@ -44,14 +40,14 @@ I didn't realise the craving for staple diet, in my case, roti (chapati) until I
 
 6\. On a flat pan, cook the chapati from both side until you get brown bubbles. If need be, press during the process to ensure the chapati is cooked evenly.
 
-**Tip** - Look for the tip under Paratha recipe. :) 
+**Tip** - Look for the tip under Paratha recipe. :)
 
-**Where to buy Indian flour** 
+**Where to buy Indian flour**
 
 Paris - VT Cash and Carry - 11 - 13 Rue Cail, 75010 Paris, France
 
 Barcelona - [https://www.jkasianfoods.com/](https://www.jkasianfoods.com/ "JK Asian foods")
 
-London - [https://www.redrickshaw.com/](https://www.redrickshaw.com/ "Red Rickshaw") or anywhere in Bricklane area 
+London - [https://www.redrickshaw.com/](https://www.redrickshaw.com/ "Red Rickshaw") or anywhere in Bricklane area
 
 Zurich - [https://www.aggarwal.ch/en/sortiment](https://www.aggarwal.ch/en/sortiment "https://www.aggarwal.ch/en/sortiment")
