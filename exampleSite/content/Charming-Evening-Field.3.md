@@ -1,14 +1,22 @@
 ---
-title: Charming Evening Field
-date: 2019-05-14T14:46:10.000+06:00
+title: Spinach and Potato Kebab
+date: 2019-10-17T08:46:10+00:00
 description: This is meta description
 type: post
-image: images/masonary-post/post-4.jpg
+image: "/images/hara-bhara-kebab.jpg"
 categories:
-- Food
+- Recipes
 tags:
 - Photos
 - Food
+- starter
+- " sides"
+- " spinach"
+- " vegetarian"
+- " potato"
+- " peas"
+- " healthy food"
+- " simple recipe "
 
 ---
 # Spinach and Potato Kebab
