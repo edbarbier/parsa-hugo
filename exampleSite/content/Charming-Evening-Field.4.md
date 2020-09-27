@@ -1,55 +1,57 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "post"
-image: "images/masonary-post/post-5.jpg"
-categories: 
-  - "Food"
+title: Indian bread
+date: 2019-06-14T08:46:10+00:00
+description: 'Typical Indian bread on the side '
+type: post
+image: "/images/palin-paratha.jpg"
+categories: []
 tags:
-  - "Photos"
-  - "Food"
+- Photos
+- Food
+- Indian
+- " vegetarian"
+- " bread"
+- " paratha"
+- " butter"
+- " ghee"
+
 ---
+# Paratha (Indian Bread) 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**Ingredients**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+\- 250 gr Wheat flour
 
+\- 12.5cl Water
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+\- 200 gr Ghee or melted butter
 
+\- 1tsp Salt
 
-![](../images/post-img.jpg)
+  
+**Method**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+1\. In a kitchen robot, add the flour and the salt.
 
+2\. Run the robot on low speed (Speed 1) for four minutes while you slowly add the water.
 
+3\. If you notice that the dough is too sticky, add a few more tbsp of flour and run the robot a bit longer until you get an homogeneous dough.
+
+4\. In the palm of your hand, take enough dough to make a 2-3 inch (5-7cm) diameter ball.
+
+5\. Using a bit of dusting flour, roll the dough into a 6 inch (15 cm) diameter circle.
+
+6\. Spread one tbsp of ghee or melted butter on fold in half.
+
+7\. Spread another tbsp of ghee or butter and fold again in a quarter.
+
+8\. Using additional dusting flour, roll the dough in a triangular shape, aim for 3mm thick.
+
+9\. On a flat pan, cook the paratha from both sides until you get brown speckles. You can spread a bit more ghee or butter while cooking.
+
+10\. Serve warm and enjoy!
+
+  
+Tip
+
+Simple thing to keep in mind with any bread dough. If it's too stick add tsp by tsp flour. If it's dry add water in smaller quantities. My fiancé is a Belgian. He doesn't have any experience with Indian flour and I struggle him making dough. From his experience I can say that add water slowly and try to bind the flour and water tightly. 
