@@ -3,14 +3,17 @@ title: 'Belgian Waffles: all you need on a winter day!'
 date: 2018-12-02T09:46:10+00:00
 description: 'Belgian Waffles Recipe: The day when I feel like starting with heavenly
   Belgian waffles for breakfast!on'
-type: featured
-image: "/images/featured-post/post-3.jpg"
+type: post
+image: "/images/5-belgian-waffles-1.JPG"
 categories:
 - Food
 tags:
 - Photos
 - Food
 - Recipes
+- Belgian waffle
+- " Waffles"
+- " Desserts"
 
 ---
 Not just another Belgian waffle recipe. This one comes from my Belgian friend's family, like one of those grandma's recipe. I LOVE IT!
