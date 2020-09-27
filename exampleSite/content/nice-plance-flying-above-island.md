@@ -5,7 +5,7 @@ description = "Mesmerised by Switzerland's nature reserve "
 image = "/images/dsc02446.jpg"
 tags = ["Switzerland", " travel", " Interlaken", " travel tips", " Grindelwald", " Lauterbrunnen", " Bachalpssee"]
 title = "Long weekend in Interlaken region "
-type = "post"
+type = "featured"
 
 +++
 # A long weekend in Interlaken
