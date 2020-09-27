@@ -5,7 +5,7 @@ description: 'Stuffed tomato '
 type: post
 image: "/images/stuff-tomato.jpg"
 categories:
-- Food
+- Recipes
 tags:
 - Photos
 - Food
