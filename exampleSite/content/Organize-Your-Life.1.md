@@ -1,44 +1,64 @@
 ---
-title: Superb paratha recipe
+title: 'Utterly Butterly Prawns '
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: post
-image: images/featured-post/post-2.jpg
+image: "/images/prawn.JPG"
 categories:
 - Recipes
 tags:
 - food
 - " recipe"
-- indian
 - recipes
+- 'sea food '
+- prawns
 
 ---
-# **TETETETTETETETE**
+# Utterly Butterly Prawns
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+This prawn recipe is a perfect blend of butter and sugar. Like any other prawn recipe on my blog it's very simple and delicious. 
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-> labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-> aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+**Ingredients** 
 
-![](../images/post-img.jpg)
+\- 600 gr Fresh prawns
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+\- 100 gr Onion finely chopped
+
+\- 50 gr Green peppers
+
+\- 3 tbsp Butter
+
+\- 3 tbsp Olive oil
+
+\- 2 Garlic finely chopped
+
+\- 0.5 inch Ginger finely chopped
+
+\- 10 cl. Coconut milk
+
+\- 2 tsp Honey
+
+\- 0.25 tsp Green chilly finely chopped
+
+\- 1 tbsp Coriander finely chopped
+
+\- To taste Salt
+
+\- To taste Red chilly powder
+
+  
+**Method**
+
+1\. Heat oil in a pan. Once the oil is hot, fry prawns for 3 mins.
+
+2\. Add chopped garlic and butter, and cook for 3 mins.
+
+3\. Add ginger, onion, honey and pepper and let it cook for 5-7 mins.. until you prawns start to get caramelised.
+
+4\. Add salt, honey and coconut milk and let it simmer on low flame for 5 mins.
+
+5\. Turn off the stove depending on your preferred consistency. If it’s too liquide for you let it simmer for a few more minutes.
+
+6\. Garnish with chopped coriander and server as an appetiser or with rice noodles or rice. It’s crunchy, butter and yummy!!!
+
+7\. Tip - Add 1 additional tsp of oil and butter
