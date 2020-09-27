@@ -9,10 +9,6 @@ URL = "travel"
 name = "Travel"
 weight = "2"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
 URL = "recipes"
 name = "Recipes"
 weight = "2"
