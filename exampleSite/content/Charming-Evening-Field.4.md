@@ -16,9 +16,7 @@ tags:
 - " ghee"
 
 ---
-# Paratha (Indian Bread) 
-
-The most common Indian bread is chapati / roti. Parathas are a bit fancier than chapati and less fancy than naan ;) 
+The most common Indian bread is chapati / roti. Parathas are a bit fancier than chapati and less fancy than naan ;)
 
 **Ingredients**
 
@@ -30,7 +28,6 @@ The most common Indian bread is chapati / roti. Parathas are a bit fancier than 
 
 \- 1tsp Salt
 
-  
 **Method**
 
 1\. In a kitchen robot, add the flour and the salt.
@@ -53,7 +50,6 @@ The most common Indian bread is chapati / roti. Parathas are a bit fancier than 
 
 10\. Serve warm and enjoy!
 
-  
 Tip
 
-Simple thing to keep in mind with any bread dough. If it's too stick add tsp by tsp flour. If it's dry add water in smaller quantities. My fiancé is a Belgian. He doesn't have any experience with Indian flour and I struggle him making dough. From his experience I can say that add water slowly and try to bind the flour and water tightly. 
+Simple thing to keep in mind with any bread dough. If it's too stick add tsp by tsp flour. If it's dry add water in smaller quantities. My fiancé is a Belgian. He doesn't have any experience with Indian flour and I struggle him making dough. From his experience I can say that add water slowly and try to bind the flour and water tightly.
