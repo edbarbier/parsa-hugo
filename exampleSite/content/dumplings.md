@@ -2,7 +2,6 @@
 categories = ["Recipes"]
 date = 2020-10-23T22:00:00Z
 description = "Lover Asian food "
-draft = true
 image = "/images/dumplings.jpg"
 tags = ["dumplings", " asian", " japanese", " momos", " nepalese", " dim sums", " wonton", "gyozas"]
 title = "Dumplings "
