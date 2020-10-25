@@ -28,5 +28,6 @@ fields:
   description: 'type: post or featured'
 pages:
 - exampleSite/content/chasing-lakes-in-italy.md
+- exampleSite/content/dumplings.md
 - exampleSite/content/nice-plance-flying-above-island.md
 - exampleSite/content/rtyuio.md
