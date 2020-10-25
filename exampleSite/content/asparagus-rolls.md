@@ -2,7 +2,6 @@
 categories = ["Recipes"]
 date = 2020-04-13T22:00:00Z
 description = "Appetizer"
-draft = true
 image = "/images/asparagus.jpg"
 tags = ["apero", "appetizer", "starter", " healthy", " simple", " easy", " sesame", " asparagus", " baked "]
 title = "Asparagus rolls "
