@@ -27,6 +27,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/asparagus-rolls.md
 - exampleSite/content/chasing-lakes-in-italy.md
 - exampleSite/content/dumplings.md
 - exampleSite/content/moong-daal-green-lentil-daal.md
