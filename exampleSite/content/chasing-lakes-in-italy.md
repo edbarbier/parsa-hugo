@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Travel"]
 date = 2020-09-18T22:00:00Z
 description = "Italian lake sites "
 image = "/images/fbc10452-3ced-423f-be97-5e4ca97a1931.JPG"
