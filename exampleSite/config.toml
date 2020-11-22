@@ -31,7 +31,7 @@ mobile = ""
 preloader = true
 search = true
 [params.instafeed]
-access_token = "4fca3b0b7e21209736cec9ce2c2c5cef"
+access_token = "IGQVJYUVo0XzNrMXB2SXJqT2xuNVdKVEdKdEJNTExPX2k2ajRfM3h0NUEtUktoSFpFczlBbzdGcjVFdnVLM3BlczNwcTZAzMVR3YUdRV2tpZAFBpck1FeG9PR2YycjB2ZAUtyZA1pKM2pJOWp6N2RQVlMwNAZDZD"
 enable = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
