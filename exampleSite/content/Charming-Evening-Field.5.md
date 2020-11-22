@@ -1,6 +1,6 @@
 ---
 title: 'Yellow lentil - Tuar Daal '
-date: 2019-07-25T08:46:10+00:00
+date: 2019-07-25T08:46:10.000+00:00
 description: 'In India we have a variety of lentils and they are very delicious by
   themselves. With a little spice and butter / oil the flavor multiplies. My favorite
   lentils are tuar (yellow in color), Moong (green in color). '
@@ -22,7 +22,7 @@ In India we have a variety of lentils and they are very delicious by themselves.
 
 \- 225 gr Yellow lentil (Tuar aka Arhar daal)
 
-\- 0.5L Water
+\- 500 ml Water
 
 \- 0.25 tsp Turmeric powder
 
