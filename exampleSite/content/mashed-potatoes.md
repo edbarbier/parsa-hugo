@@ -2,7 +2,6 @@
 categories = []
 date = 2020-10-24T22:00:00Z
 description = "Mashed potato for Christmas, Thanksgiving and wintery nights! "
-draft = true
 image = "/images/mashed-potato.jpg"
 tags = ["mashed potato", " festive", " thanksgiving", "mushroom gravy", " gravy", " mushroom", " potato", " Christmas"]
 title = "Mashed potatoes"
