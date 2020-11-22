@@ -12,8 +12,8 @@ type = "post"
 
 Ingredients
 
-* 330 gms mushrooms
-* 80 gms diced onion
+* 330 gm mushrooms
+* 80 gm diced onion
 * 1 clove garlic finely chopped
 * 3/4 cup coconut milk
 * 2 tbsp corn flour
