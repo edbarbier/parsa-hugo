@@ -2,7 +2,6 @@
 categories = []
 date = 2020-10-23T22:00:00Z
 description = "A random experiment turned out to be delicious and a perfect dip for rice noodles wrap "
-draft = true
 image = "/images/recipes.jpg"
 tags = ["peanut butter", " asian", " spicy", " rice rolls", " rice noodles", " side dip "]
 title = "Spicy peanut butter sauce"
