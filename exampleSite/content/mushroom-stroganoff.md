@@ -8,6 +8,8 @@ title = "Mushroom Stroganoff"
 type = "post"
 
 +++
+Mushroom gravy to go with Mash Potatoes, pasta or jasmine rice.
+
 **Recipe**
 
 Ingredients
@@ -27,8 +29,8 @@ Ingredients
 **Method**
 
 * Heat oil in a large pan at medium to high flame. Turn the flame to medium and add onion and garlic. Cook at low to medium flame for about 5 minutes or until the onions are soft and transparent.
-* Add mushroom and cook it for another 5 minutes. 
-* Add water and vegetable stock and bring the water to boil. 
-*  Mix corn flour, salt, pepper, dried herbs and soy sauce with 2 tsp of water and mix until the corn flour is dissolved. 
-* Add it to the pan together with the coconut milk. Let everything cook for another 10 mins until the gravy thickens. 
-* Serve this gravy over mashed potatoes. 
+* Add mushroom and cook it for another 5 minutes.
+* Add water and vegetable stock and bring the water to boil.
+* Mix corn flour, salt, pepper, dried herbs and soy sauce with 2 tsp of water and mix until the corn flour is dissolved.
+* Add it to the pan together with the coconut milk. Let everything cook for another 10 mins until the gravy thickens.
+* Serve this gravy over mashed potatoes.
