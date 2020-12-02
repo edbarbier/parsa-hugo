@@ -14,7 +14,7 @@ A random experiment turned out to be delicious and a perfect dip for rice noodle
 
 * 25 gm Peanut butter
 * 5 tbsp thick cream
-* 1.5 tbsp sambal oelek sauce
+* 1.5 tbsp [sambal oelek sauce](https://amzn.to/36xNhxZ "https://amzn.to/36xNhxZ")
 * 1 tbsp soy sauce
 * 3 tbsp water or milk
 
