@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2020-10-24T22:00:00Z
+date = 2020-11-06T23:00:00Z
 description = "Mashed potato for Christmas, Thanksgiving and wintery nights! "
 image = "/images/mashed-potato.jpg"
 tags = ["mashed potato", " festive", " thanksgiving", "mushroom gravy", " gravy", " mushroom", " potato", " Christmas"]
@@ -8,6 +8,8 @@ title = "Mashed potatoes"
 type = "post"
 
 +++
+Mashed potato for Christmas, Thanksgiving and wintery nights!
+
 **Recipe**
 
 Ingredients
@@ -19,13 +21,13 @@ Ingredients
 * Salt to taste
 * Pepper to taste
 * 50 gm melted butter
-* 25 gm grated gruyere 
-* 10 gm blue cheese 
+* 25 gm grated gruyere
+* 10 gm blue cheese
 
 **Method**
 
-* Peel the potatoes and mash them with a masher or a flat bottom glass or a wide bottom spoon 
-* Heat the cooking cream in a pan. Add dried rosemary leaves and garlic clove. Let it simmer on low flame for 5 minutes. Keep stirring to ensure it doesn't stick at the bottom of the pan. 
-* Start adding warm cream to the potatoes 2-3 tsp at a time and fold in gently into the potatoes. Make sure you really add little by little and fold as if done in a rush it might lead to a running mashed potato. 
-* Once the cream is folded in do the same with butter and then the cheese and salt and pepper. 
-* Add a slice of butter on the top and eat with a nice gravy. 
+* Peel the potatoes and mash them with a masher or a flat bottom glass or a wide bottom spoon
+* Heat the cooking cream in a pan. Add dried rosemary leaves and garlic clove. Let it simmer on low flame for 5 minutes. Keep stirring to ensure it doesn't stick at the bottom of the pan.
+* Start adding warm cream to the potatoes 2-3 tsp at a time and fold in gently into the potatoes. Make sure you really add little by little and fold as if done in a rush it might lead to a running mashed potato.
+* Once the cream is folded in do the same with butter and then the cheese and salt and pepper.
+* Add a slice of butter on the top and eat with a nice gravy.
