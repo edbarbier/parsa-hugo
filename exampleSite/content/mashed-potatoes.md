@@ -8,7 +8,7 @@ title = "Mashed potatoes"
 type = "post"
 
 +++
-Mashed potato for Christmas, Thanksgiving and wintery nights!
+Mashed potato for Christmas, Thanksgiving and wintery nights! Trust me even if you dont like mashed potato you need to try it to give it another chance and you will fall in love ;) 
 
 **Recipe**
 
