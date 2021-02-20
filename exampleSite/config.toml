@@ -31,7 +31,7 @@ mobile = ""
 preloader = true
 search = true
 [params.instafeed]
-access_token = "IGQVJYZAGp0cFhicGE2MjdWd1pBbGV1ZAnNDdlhCa2dBRHJoaC1tWGt6Q1o1TGExd2hNc3N3UGczNHdUNlBpczU1MzV5dXI1MFhNRHBIZA3l3S05UX3YtdF94WmJOT1c4cFdNMWo1b09VNmpiamJOaGFQMQZDZD"
+access_token = "IGQVJWejQ3MmRfcUJFaHE5cVp2SnkwaEpvN01veFVUNS1sRTNKaHFmNnFqR2liMS1nYVJBajhuWGp0N2pVX0FHazczNXRQQVROVWw4TUdhOVY2cm01M1RPbVZAaWUVPeC12dldpZAWRkbV9wTXQ3WGlYdQZDZD"
 enable = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
