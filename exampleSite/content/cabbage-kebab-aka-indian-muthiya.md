@@ -2,7 +2,6 @@
 categories = []
 date = 2021-02-21T23:00:00Z
 description = "Muthiya is kind of vegetable kebab from my mom's kitchen. I was struggling to finish cabbage and my mumma reminded of this delicious appetizer. "
-draft = true
 image = "/images/muthiya.jpg"
 tags = ["appetizer", " cabbage", " snack", " indian", " vegan", " vegetarian"]
 title = "Cabbage kebab aka Indian Muthiya "
